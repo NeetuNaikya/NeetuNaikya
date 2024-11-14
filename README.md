@@ -1,9 +1,9 @@
 
 👋 Hi, I’m @NeetuNaikya
 
-👀 I’m interested in web development, creative media.
+👀 I’m interested in python,C++, javascript,web development, learning and exploring Ai,
 
-🌱 I’m currently learning how to create responsive, creative websites using HTML, CSS, JavaScript, and Bootstrap.
+🌱 I’m currently learning python,c++, javascript. how to create responsive, creative websites using HTML, CSS, JavaScript, and Bootstrap.
 
 💞️ I’m looking to collaborate on web development projects and digital content creation.
 
